@@ -1,2 +1,3 @@
 # 4DG_p3
-recursos gráficos
+gráfica interactiva
+https://amelia148fhu.github.io/4DG_p3/
